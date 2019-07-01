@@ -1,0 +1,27 @@
+{
+  "name": "midi-launchpad",
+  "version": "0.2.0",
+  "dependencies": {
+    "midi": "^0.9.5"
+  },
+  "description": "Node module for connecting to a launchpad midi device",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emptygalaxy/midi-launchpad.git"
+  },
+  "keywords": [
+    "node",
+    "midi",
+    "launchpad"
+  ],
+  "author": "Nick Timman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emptygalaxy/midi-launchpad/issues"
+  },
+  "homepage": "https://github.com/emptygalaxy/midi-launchpad#readme"
+}
